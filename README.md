@@ -1,6 +1,8 @@
 # Blabla_bot
 Blabla_bot - Telegram-bot assistant for drivers &amp; passengers for rides creating and taking.
 
+@blablacartelegram_bot - active now
+
 Drivers can create rides with places, providing info by route, place cost, and contact info, passengers can view rides, take places and get driver`s contact.
 
 All users by command /user can provide nick and contact phone, 
